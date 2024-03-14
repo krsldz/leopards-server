@@ -13,6 +13,7 @@
 !! Не забываем поменять url для запросов
 
 5. Подключаемся через ssh к серверу, устанавливаем git
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04 
 6. Генерируем ssh-ключ для гитхаба, добавляем
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
